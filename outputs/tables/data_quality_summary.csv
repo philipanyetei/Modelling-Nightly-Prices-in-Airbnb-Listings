@@ -1,0 +1,19 @@
+,0
+raw_train_rows,208856
+analysis_rows,208839
+dropped_price,0
+implausible_price_flagged,17
+invalid_coords,0
+missing_price,0
+missing_city,0
+missing_room_type,0
+missing_rating,40646
+missing_bedrooms,275
+missing_bathrooms,98
+missing_beds,396
+duplicate_ids,0
+price_iqr_outliers,14246
+price_at_1000,936
+price_below_20,348
+cities,108
+room_types,"Entire home/apt, Hotel room, Private room, Shared room"
