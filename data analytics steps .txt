@@ -1,0 +1,32 @@
+Step 1: Define the business problem
+Explain:
+•	Who is the stakeholder?
+•	What decision must be made?
+•	Why is the problem important?
+•	What does success mean?
+Step 2: Obtain and understand the dataset
+Document:
+Dataset source.
+Number of rows.
+Number of columns.
+Time period.
+Unit of observation.
+Data dictionary.
+Known limitations.
+Step 3: Clean the data
+Check:
+Missing values.
+Duplicates.
+Invalid values.
+Incorrect types.
+Outliers.
+Inconsistent categories.
+Step 4: Explore the data
+Perform:
+Descriptive analysis.
+Group comparisons.
+Trend analysis.
+Distribution analysis.
+Correlation analysis.
+Step 5: Visualize the findings
+Create charts that answer specific business questions.

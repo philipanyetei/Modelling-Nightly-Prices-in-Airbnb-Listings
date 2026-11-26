@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Dataset files (large CSVs kept locally, not in git)
+data/*.csv
+rental price/*.csv
+
+# Regenerable cleaned-data parquet (rebuild via src/01_clean.py)
+outputs/cleaned/
+
+# Python cache
+__pycache__/
+*.pyc

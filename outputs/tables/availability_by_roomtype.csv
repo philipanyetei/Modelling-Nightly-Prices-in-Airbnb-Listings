@@ -1,0 +1,5 @@
+room_type,availability_30,availability_60,availability_90,availability_365,price
+Entire home/apt,14.0,34.0,58.0,229.0,151.0
+Hotel room,19.0,43.0,69.0,287.0,220.0
+Private room,20.0,47.0,74.0,248.0,79.0
+Shared room,26.0,55.0,83.0,325.0,43.5
